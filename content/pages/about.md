@@ -6,8 +6,17 @@ eleventyNavigation:
   order: 1
 ---
 
-This is a lightweight portfolio starter kit by [Sam Baldwin](https://sambaldwin.info) and [Piper Haywood](https://piperhaywood.com). The thinking behind it comes from a decade of experience designing and building portfolios for designers, illustrators, architects, and other people that want to share their work and activity online.
 
-Portfolio Starter is lightweight and open source. The intended user may not know how to code but is interested in the tech behind their website, is willing to write in Markdown, and is happy to follow a few instructions. The codebase is deliberately basic to encourage tinkering and customisation for everyone, including a beginner that is just beginning to learn why `alt` text is important (hint: it’s really important). Since it uses the static site generator [Eleventy](https://www.11ty.dev/), Portfolio Starter can be hooked up to free static hosting providers such as Netlify or ZEIT Now.
+I studied Book Arts and Crafts at the London College of Communication (LCC) and was lucky enough to have been taught by the last of the trade bookbinders, printers and print finishers on a course that emphasised a practical and craft-based approach to ‘book arts’.
 
-[Check out the documentation](https://github.com/sb-ph/portfolio-starter) to start experimenting, you can get a website online with the click of a few buttons. If you give it a try, [let us know](mailto:mail@sb-ph.com)! We’d love to see how people use it and where they take it.
+After spending several years planning and acquiring hard-to-find equipment and machinery, I founded the London Centre for Book Arts (LCBA) in October 2012, becoming the first and only centre of its kind in the country. 
+
+Based in what was once the heart of east London’s print industry, LCBA is an artist-run, open-access studio offering education programmes for the community and affordable access to resources for artists and designers. 
+
+Our mission is to foster and promote book arts and artist-led publishing in the UK through collaboration, education, distribution, and by providing open-access to printing, binding and publishing facilities. The unique facilities at LCBA are available to everyone regardless of background, education or experience.
+
+When we started the studio our goal was to create a place where people could affordably access equipment, resources and expertise to create and edition books and publications, just like I had experienced while at LCC.
+
+Although we’ve grown significantly since then, we remain a small, independent organisation, and most of the day-to-day is still managed between the two of us: myself and my partner, Ira Yonemura.
+
+Sharing resources, skills and expertise has always been at the heart of LCBA. Over the years we have grown to include occasional publishing projects, commissions, consultations, talks & presentations, and a shop to our core activities. 
